@@ -1,0 +1,25 @@
+    h {
+        background-color: black;
+        color: white;
+        padding: 10px;
+        margin: 10px;
+    }
+    
+    a:link {
+        background-color: black;
+        color: grey;
+        padding: 10px;
+        margin: auto;
+        text-decoration: none;
+    }
+    
+    a:hover {
+        background-color: green;
+        color: chocolate;
+    }
+    
+    a:visited {
+        color: white;
+        padding: 10px;
+        margin: auto;
+    }
